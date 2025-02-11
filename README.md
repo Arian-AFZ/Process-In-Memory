@@ -1,7 +1,7 @@
-# Process-in-Memory (PIM) System - Verilog Implementation
+# Process-in-Memory (PIM) System - A Simple Verilog Implementation
 
 ## Overview
-This repository contains the Verilog implementation of a **Process-in-Memory (PIM)** system. The PIM system integrates memory, an Arithmetic Logic Unit (ALU), and a Control Unit (CU) to perform in-memory computations. The system supports basic memory read/write operations as well as arithmetic and logical operations on data stored in memory. A block diagram of the system is included in the repository.
+This repository contains the Verilog implementation of a basic **Process-in-Memory (PIM)** system. The PIM system integrates memory, an Arithmetic Logic Unit (ALU), and a Control Unit (CU) to perform in-memory computations. The system supports basic memory read/write operations as well as arithmetic and logical operations on data stored in memory. A block diagram of the system is included in the repository.
 
 ---
 
